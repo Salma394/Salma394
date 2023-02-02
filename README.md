@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Salma
-- 👀 I’m interested in artificial intelligence and machine learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on beginner python projects. 
 - 📫 How to reach me- salmaibrahim813@gmail.com
