@@ -6,7 +6,7 @@
 ### <div align="center">I'm Salma, looking to transition into tech as a full-stack developer👩‍💻</div>  
   
 
-- 🔭 I’m currently working on [Voyago](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Voyago]https://github.com/Salma394/Voyago  
   
 
 - 🌱 I’m currently learning Python  
