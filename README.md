@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Voyago](https://github.com/Salma394/Voyago)  
   
 
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently learning Python,HTML,CSS,JavaScript,React and MySQL.
   
 
 <br/>  
