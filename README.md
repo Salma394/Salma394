@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Salma, looking to transition into tech as a full-stack developer👩‍💻</div>  
+### <div align="center">I'm Salma, working as a graduate associate software engineer👩‍💻</div>  
   
 
 - 🔭 I’m currently working on [Voyago](https://github.com/Salma394/Voyago)  
   
 
-- 🌱 I’m currently learning Python,HTML,CSS,JavaScript,React and MySQL.
+- 🌱 I’m currently learning Python,HTML,CSS,JavaScript,React,Java and MySQL.
   
 
 <br/>  
