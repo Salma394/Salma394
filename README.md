@@ -4,7 +4,7 @@
 
 ---
 
-### <div align="center">Hi, I'm Salma 👋</div>  
+### <div align="center">Hi, I'm Salma👋🏾</div>  
 #### <div align="center">An Associate Software Engineer passionate about building impactful and efficient solutions</div>  
 
 ---
